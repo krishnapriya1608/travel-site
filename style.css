@@ -1,0 +1,594 @@
+.navbar {
+    background-color:#e3e3cd;
+    color:  #73736f;
+}
+.containercontainer-fluid{
+    display: flex;
+   
+   
+}
+.nav-item:hover{
+  text-shadow: 2px 4px 5px rgb(195, 61, 61);
+}
+.row{
+    font-family: lato,sans-serif;
+    font-size: 12px;
+  
+    
+}
+.rows:hover{
+  text-shadow: 2px 4px 5px rgb(195, 61, 61);
+}
+.row li a{
+    gap:20px;
+    padding: 10px;
+    margin-left: 35px;
+    font-family: "Cormorant Garamond", serif;
+    color:  #73736f;
+  
+    
+}
+.hh{
+    font-family: lato,sans-serif;
+    font-size: 60px;
+    font-weight: 400;
+    color:  #73736f;
+    height:300px;
+    
+
+}
+.lol{
+    display: flex;
+    justify-content: center;
+    color: #73736f;
+    cursor: pointer;
+    
+    
+}
+.lol:hover{
+  text-shadow: 2px 4px 5px rgb(195, 61, 61);
+}
+.lol p{
+    padding:10px;
+ 
+    text-align: center;
+    font-size: 60px;
+    font-stretch: condensed;
+    font-weight: 100;
+    font-family: "Bodoni Moda SC", serif;
+ 
+}
+.mm p{
+    font-stretch: condensed;
+  margin-bottom:20px ;
+    font-size: 80px;
+    font-style: italic;
+    font-weight: 100;
+    font-family: "Grey Qo", cursive;
+
+    
+}
+.voi li a{
+    font-family: lato,sans-serif;
+    font-size: 10px;
+    
+   
+   
+   text-align: center;
+   background-color: azure;
+
+}
+.vio nav{
+   background-color: white;
+}
+.vio{
+
+    font-size: 11px;
+    position: absolute;
+    left: 21%;
+    background-color: transparent;
+    color: #73736f;
+   
+}
+.vio a{
+
+    
+    color: #73736f;
+}
+.vio li a{
+    gap:20px;
+    padding: 10px;
+    margin: 5px;
+    color: #73736f;
+}
+.cio img{
+    margin-top: 75px;
+}
+.lo{
+    background-color:  #ede8e2;
+    color:  #9c9994;;
+    height: 390px;
+    width:290px;
+    margin: 10px;
+    cursor:pointer;
+    
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.lo img:hover{
+    box-shadow: 2px 4px 4px 6px black;
+}
+.lo h4{
+    font-family: "Cormorant Garamond", serif;
+    cursor:pointer;
+}
+.lo h4:hover{
+    text-shadow: 2px 4px 4px black;
+}
+
+.lo h3{
+    margin-left: 58px;
+    font-family: "Cormorant Garamond", serif;
+    cursor:pointer;
+}
+.lo h3:hover{
+    text-shadow: 2px 4px 4px black;
+}
+.xx{
+    margin-left: 170px;
+    background-color:  #ede8e2;
+    color:  #9c9994;;
+    height: 390px;
+    width:290px;
+    margin: 10px;
+    cursor:pointer;
+}
+.dio{
+    margin-top: 70px;
+
+}
+
+.col{
+    background-color:  #ede8e2;
+    color:  #9c9994;
+    height: 390px;
+    width:200px;
+    margin: 10px;
+    cursor:pointer;
+}
+.col h5{
+    font-family: "Sedan", serif;
+}
+
+.col h6{
+    font-family: "Sedan", serif;
+}
+.ss{
+    display: flex;
+  justify-content: center;
+  font-size: 55px;
+  margin-top: 30px;
+}
+.ff p{
+    font-family: "Satisfy", cursive;
+    font-stretch: condensed;
+    font-weight: 100;
+    
+    color:rgb(214, 192, 215);
+
+}
+.ss p{
+
+    padding: 10px;
+    
+   
+}
+.zz{
+    font-family: "Bodoni Moda SC", serif;
+    font-stretch: condensed;
+    font-weight: 100;
+    font-size: 30px;
+    margin-top: 20px;
+    color: rgb(198, 192, 198);
+}
+.looi{
+    display: flex;
+}
+.dop{
+    margin-left: 250px;
+    margin-top: 30px;
+    align-content: end;
+}
+.looi h6{
+margin-top:130px;
+margin-left: 10px;
+margin-bottom: 30px;
+color:#6e7a5a;
+
+}
+ .col-4{
+    margin: 20px;
+ }
+
+.foi{
+    text-align: start;
+    display: flex;
+   font-size: 50px;
+    font-family: "Abel", sans-serif;
+    color:rgb(184, 178, 131);
+    
+}
+.foi p{
+    padding: 10px;
+}
+.jioo {
+    font-family: "Grey Qo", cursive;
+    font-size: 70px;
+  
+}
+.mui p{
+    font-size: 30px;
+    margin-top: 30px;
+}
+.koii{
+    background-color: #e0dbd3;
+    width:250px;
+    height:250px;
+}
+  .koii img{
+    position: relative;
+    bottom:20%;
+    right:18%;
+  }
+  .koii p{
+    font-family: "Satisfy", cursive;
+    font-size: 13px;
+    color:#6e7a5a;
+  }
+  .hio{
+    color: rgb(145, 143, 126);
+    margin-top: 20px;
+  }
+  .image{
+    display: flex;
+    margin-top: 70px;
+  }
+  .imgs1{
+    position:absolute;
+    right:70%;
+  }
+  .imgs1 a{
+    text-decoration: none;
+    background: #f6f0e7;
+    color: #73736f;
+    width: 210px;
+    height: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 6px;
+    position: absolute;
+    bottom: 30px;
+    left: 0;
+    right: 0;
+    display: block;
+    margin: 0 auto;
+    letter-spacing: .5px;
+    font-size: 12px;
+  
+
+  }
+  .imgs1 a:hover{
+    text-shadow: 2px 4px black;
+  }
+  .imgs3 a {
+    text-decoration: none;
+    background: #f6f0e7;
+    color: #73736f;
+    width: 210px;
+    height: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 6px;
+    position: relative;
+    bottom:70px;
+    left: 0;
+    right: 0;
+    display: block;
+    margin: 0 auto;
+    letter-spacing: .5px;
+    font-size: 12px;
+   
+  }
+  .imgs3 a:hover{
+    text-shadow: 2px 4px black;
+  }
+  .imgs4 a{
+    text-decoration: none;
+    background: #f6f0e7;
+    color: #73736f;
+    width: 210px;
+    height: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 6px;
+    position: relative;
+    bottom: 70px;
+    left: 0;
+    right: 0;
+    display: block;
+    margin: 0 auto;
+    letter-spacing: .5px;
+    font-size: 12px; 
+  }
+  .imgs4 a:hover{
+    text-shadow: 2px 4px black;
+  }
+  .imgs5 a{
+    text-decoration: none;
+    background: #f6f0e7;
+    color: #73736f;
+    width: 210px;
+    height: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 6px;
+    position: relative;
+    bottom: 70px;
+    left: 0;
+    right: 0;
+    display: block;
+    margin: 0 auto;
+    letter-spacing: .5px;
+    font-size: 12px;
+  }
+  
+  .dd {
+   display: flex;
+   justify-content: center;
+   margin: 10px;
+   gap:10px;
+   color:#6e7a5a;
+   background-image: url(https://c8.alamy.com/comp/2M2G4JA/pink-diagonal-lines-on-white-background-fade-to-white-abstract-striped-background-for-poster-web-banner-template-brochure-etc-copy-space-2M2G4JA.jpg);
+
+}
+  .san{
+    font-family: "Abel", sans-serif;
+  }
+  .zx{
+    font-family: "Satisfy", cursive;
+  }
+  .svg{
+    position: absolute;
+    left:97%;
+  margin-top: 190px;
+  margin-right: 150px;
+  background:  #73736f;
+    height:60px;
+    width: 40px;
+   
+    
+  }
+  .nm{
+    margin: 10px;
+    padding: 10px;
+    color: #6e7a5a;
+   
+  }
+  .nm h1{
+    margin-left: 35px;
+    padding:10px;
+    margin:10px;
+    font-family: "Bodoni Moda SC", serif;
+    padding: 10px;
+    color: #6e7a5a;
+    text-align: center;
+  }
+  .cols select{
+    margin-right: 150px;
+  }
+  
+  .kir {
+    display: flex;
+    padding: 10px;
+    justify-content: space-evenly;
+  }
+  .rowws{
+    border: #6e7a5a ridge;
+    margin-right: 230px;
+    position: relative;
+    top:20px;
+    height:500px;
+    width:300px;
+    padding: 20px;
+    font-size: 20px;
+    gap: 10px;
+    
+    
+  }
+  .rowws h6{
+   
+    font-size: 18px;
+    color:#d3b1d3;
+   font-family: "Bodoni Moda SC", serif;
+  }
+  .cols input{
+    width:400px;
+    background-color: #f1e8f2;
+  }
+  .cols  option{
+    width:400px;
+  }
+  .son{
+    display: flex;
+  }
+  .fooi{
+    position: relative;
+    left:17% ;
+   bottom:430px;
+  }
+  .dau{
+    position: relative;
+    bottom: 250px;
+    right:1px;
+    left: 220px;
+    background-color: #e0dbd3;
+    padding: 10px;
+   
+    background-image: url(https://img.freepik.com/free-photo/beige-nude-pink-background-text-space_53876-108333.jpg);
+    
+   height:350px;
+  width:450px;
+   
+  }
+  .dau h1{
+    padding: 20px;
+    font-family: "Satisfy", cursive;
+   
+
+  }
+  .imge{
+    position: relative;
+    bottom: 530px;
+    left:650px;
+  }
+  .lp{
+    position: relative;
+    bottom: 340px;
+   
+  }
+  .cole{
+    position: relative;
+    bottom: 330px;
+  }
+  .cole h4{
+    font-size: 24px;
+    padding:10px;
+    margin: 10px;
+    font-family: "Bodoni Moda SC", serif;
+    background-color: #f5f5f2;
+    height:400px;
+    width:230px;
+  }
+  .cole{
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .cole p{
+    font-size: 24px;
+    padding:10px;
+    margin: 10px;
+    font-family: "Bodoni Moda SC", serif;
+    background-color: #73736f;
+    height:200px;
+    width:230px;
+  }
+  .oo{
+    font-size: 24px;
+    padding:10px;
+    margin: 10px;
+    font-family: "Bodoni Moda SC", serif;
+    background-color: #73736f;
+    height:200px;
+    width:230px;
+  }
+  .rio{
+    display: flex;
+    margin-bottom: 290px;
+   
+  }
+  .mmm {
+    margin-left: 150px;
+    background-color: #e0dbd3;
+    height:420px;
+   
+    
+   
+  }
+  .aa{
+   
+    margin-bottom: 320px;
+    text-align: center;
+    font-size: larger;
+    font-family: "Satisfy", cursive;
+    margin-left: 150px;
+    margin-top: 170px;
+    background-image: url(https://a0.anyrgb.com/pngimg/1480/62/horizontal-line-fifa-18-fifa-tutorial-template-computer-monitors-football-hardware-accessory-internet-black-and-white-thumbnail.png);
+   
+    height:190px;
+  
+  color: #73736f;
+  margin-right: 80px;
+  }
+  .mmn h3{
+    position: relative;
+    bottom: 170px;
+    font-weight: 100;
+    font-family: "Grey Qo", cursive;
+    font-stretch: condensed;
+    font-size: 70px;
+    color: #d3b1d3;
+
+
+  }
+  .gio{
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .gio p{
+    margin-bottom: 250px;
+    text-align: center;
+    
+    font-family: "Satisfy", cursive;
+    font-stretch: condensed;
+   
+    color: #1c1d1e;
+  
+  }
+  .llp p{
+    font-size: 20px;
+  }
+  .ime1{
+    position: relative;
+    bottom: 170px;
+    left:0px;
+    background-color: #d7bad5;
+    width:100%;
+
+  }
+  .kl{
+    margin-left: 80px;
+    margin-bottom: 85px;
+    gap:20px;
+  }
+  .kl img{
+    gap:20px;
+    padding: 10px;
+  }
+  .containe{
+    margin-bottom: 450px;
+    
+  
+  }
+  .imj1 img{
+    background-color:rgb(184, 178, 131);
+  }
+  
+ .boxmodel h5{
+  margin-right: 20px;
+ }
+  .boxmodel p{
+font-size: 15px;
+font-family: "Bodoni Moda SC", serif;
+
+  }
+  .ko{
+    margin-bottom: 190px;
+    font-family: "Satisfy", cursive;
+    font-size: 30px;
+    color: #73736f;
+  }
+  .ko img{
+    margin-top: 50px;
+    margin-left: 390px;
+  }
+  
