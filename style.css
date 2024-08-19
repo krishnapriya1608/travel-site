@@ -183,6 +183,79 @@
     
    
 }
+.resources{
+  margin-bottom: 80px;
+  background: url(https://www.theblondeabroad.com/wp-content/themes/tba/images/resources_bg_rep@2x.jpg) repeat-x;
+  background-size: 132px 510px;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  gap: 300px;
+}
+.box-content{
+  background: #f9f6f3;
+  width: 300px;
+  height: 355px;
+  padding: 30px 25px 0;
+}
+
+
+.resources .img{
+  display: flex;
+  margin-bottom: 50px;
+}
+.imgsection{
+
+  margin-left: 150px;
+  position: relative;
+}
+.boxnew{
+  position: absolute;
+  left: 500px;
+  top: 6997px;
+
+}
+.img_2{
+position: relative;  
+
+
+}
+.img_1{
+  position: absolute;
+  left: 150px;
+}
+.box-content  p{
+  font-size: 14px;
+}
+
+.box-content ul li a{
+  font-size: 13px;
+  color: #d8cec2;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.resources_img{
+  background-color: #d8cec2;
+  width: 350px;
+  height: 430px;
+  margin-right: 300px;
+}
+.resources_img1{
+  width: 370px;
+  height: 450px;
+  margin-top: 40px;
+  margin-left: 40px;
+
+}
+.resources_img{
+  position: relative;
+}
+.resources_img2{ 
+  position:absolute;
+
+
+}
 .zz{
     font-family: "Bodoni Moda SC", serif;
     font-stretch: condensed;
@@ -521,7 +594,7 @@ color:#6e7a5a;
   }
   .mmn h3{
     position: relative;
-    bottom: 170px;
+    bottom: 100px;
     font-weight: 100;
     font-family: "Grey Qo", cursive;
     font-stretch: condensed;
@@ -549,7 +622,7 @@ color:#6e7a5a;
   }
   .ime1{
     position: relative;
-    bottom: 170px;
+    bottom: 90px;
     left:0px;
     background-color: #d7bad5;
     width:100%;
